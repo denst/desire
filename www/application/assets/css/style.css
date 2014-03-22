@@ -1,0 +1,9 @@
+#form-desire {
+    border: 1px solid #ddd;
+    padding: 15px;
+    margin-top: 15px;
+    border-radius: 6px;
+}
+#form-desire label{
+    margin-top: 6px;
+}
